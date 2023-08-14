@@ -6,7 +6,7 @@ This is a simple script that log you into your account and is able to auto solve
 
 1. Install Python 3.5 or higher
 2. Install the dependencies by running `pip install -r requirements.txt`
-3. Set your username and password in a `.env` file at the root of the project
+3. Set your username and password in a `.env` file at the root of the project as `USER` and `MDP`.
 4. Run the script by running `python main.py`
 
 ##  Usage
