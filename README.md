@@ -1,6 +1,6 @@
 #   AMQ Auto Complete
 
-This is a simple script that log you into your account and is able to auto solve the Quiz.
+This is a simple script that logs you into your account and is able to auto solve the Quiz.
 
 ##  Installation
 
@@ -11,7 +11,7 @@ This is a simple script that log you into your account and is able to auto solve
 
 ##  Usage
 
-Join a game and the bot will automatically try to solve the quiz. If it is unable to solve the quiz, you will have to solve it yourself. The script will then add the correct answer provided by the website to his database.
+Join a game and the bot will automatically try to solve the quiz. If it is unable to solve the quiz, you will have to solve it yourself. The script will then add the correct answer provided by the website to its database.
 
 ##  Notes
 
